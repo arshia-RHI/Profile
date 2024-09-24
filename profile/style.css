@@ -1,0 +1,120 @@
+.a1{
+    width: 280px;
+    background-color: #1f1f1f;
+    height: 485px;
+    margin-left: 41%;
+    margin-top: 8%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 0.2px  black;
+}
+.i1{
+    border-radius: 100px;
+    width: 80px;
+    margin-left: 94px;
+    margin-top: 38px;
+}
+.h1{
+    color: white;
+    font-family: arial;
+    margin-left: 50px;
+}
+.p1{
+    color: #c4f82a;
+    font-family: arial;
+    font-size: 14px;
+    margin-left: 65px;
+    margin-top: -10px;
+}
+.p2{
+    color: white;
+    font-family: arial;
+    font-size: 13px;
+    margin-left: 30px;
+}
+.b1{
+    background-color: #333333;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 8px;
+    width: 230px;
+    margin-left: 25px;
+    height: 35px;
+}
+.b2{
+    background-color: #333333;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 8px;
+    width: 230px;
+    margin-left: 25px;
+    height: 35px;
+    margin-top: 10px;
+}
+.b3{
+    background-color: #333333;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 8px;
+    width: 230px;
+    margin-left: 25px;
+    height: 35px;
+    margin-top: 10px;
+}
+.b4{
+    background-color: #333333;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 8px;
+    width: 230px;
+    margin-left: 25px;
+    height: 35px;
+    margin-top: 10px;
+}
+.b5{
+    background-color: #333333;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    border-radius: 8px;
+    width: 230px;
+    margin-left: 25px;
+    height: 35px;
+    margin-top: 10px;
+}
+body{
+    background-color: rgb(58, 58, 58);
+}
+.b1:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
+.b2:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
+.b3:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
+.b4:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
+.b5:hover{
+    background-color: #c4f82a;
+    color: black;
+    cursor: pointer;
+}
